@@ -3,7 +3,7 @@
 <p align="center">
   <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Como usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Comandos para usar">Comandos para usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -34,7 +34,7 @@ O jogo de Pokémon permite:
 * Ver Pokeagenda
 * Sair do jogo. 
 
-## 👩🏻‍💻 Como usar
+## 👩🏻‍💻 Comandos para usar
 * Clone o repositório para o seu computador.
 * Abra o terminal e navegue até a pasta do projeto.
 * Execute o arquivo main.py com o comando python main.py.
